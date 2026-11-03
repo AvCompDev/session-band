@@ -1,0 +1,6 @@
+{
+  "name": "session-band",
+  "version": "0.3.0",
+  "description": "A band above the prompt with session cost, tokens and agent time, plus Copy, Review, Audit, Board and Compact buttons",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "avcompdev-mods",
+  "description": "AvCompDev's Claude mods",
+  "owner": { "name": "AvCompDev" },
+  "plugins": [{ "name": "session-band", "source": "./" }]
+}
